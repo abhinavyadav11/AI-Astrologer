@@ -1,6 +1,16 @@
+
+https://github.com/user-attachments/assets/caeafaed-55b2-4672-b750-de035640bd76
 # AI Astrologer
 
 A simple Streamlit app that collects birth details (Name, Date, Time, Place), generates a fun astrology-style reading (rule-based), and answers a free-text question.
+
+# sample video
+
+
+
+https://github.com/user-attachments/assets/a8fc14a9-5817-4e4a-b48d-2136bae50f99
+
+
 
 ## Features
 
